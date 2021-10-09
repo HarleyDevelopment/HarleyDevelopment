@@ -40,7 +40,3 @@ client.login(botToken)
 Want to get into coding, wanting to become a developer? But struggling ... I offer support on programming and other developement methods within my [Discord](https://discord.gg/tKy4tqyc3y)
 
 If you're viewing this and got an account on this platform, why not follow me? After following me you could head over to https://h4r1ey-dev.xyz and log-in using our GitHub log-in method!
-
-## Other
-<!-- Place this tag where you want the button to render. -->
-<github-button href="https://github.com/HarleyDevelopment" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-show-count="true" aria-label="Follow @HarleyDevelopment on GitHub">Follow @HarleyDevelopment</github-button>
