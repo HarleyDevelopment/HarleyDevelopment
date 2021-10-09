@@ -42,5 +42,3 @@ Want to get into coding, wanting to become a developer? But struggling ... I off
 
 If you're viewing this and got an account on this platform, why not follow me? After following me you could head over to https://h4r1ey-dev.xyz and log-in using our GitHub log-in method!
 
-## My Discord
-https://discord.com/api/guilds/895638509187117077/widget.json
