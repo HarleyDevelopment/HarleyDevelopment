@@ -41,3 +41,6 @@ client.login(botToken)
 Want to get into coding, wanting to become a developer? But struggling ... I offer support on programming and other developement methods within my [Discord](https://discord.gg/tKy4tqyc3y)
 
 If you're viewing this and got an account on this platform, why not follow me? After following me you could head over to https://h4r1ey-dev.xyz and log-in using our GitHub log-in method!
+
+## My Stack
+https://camo.githubusercontent.com/848defb760c0adff4362c04283f254f633ea8eff177c1640b209429d0e3d7627/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3333333333333f7374796c653d666c6174266c6f676f3d6a617661736372697074
