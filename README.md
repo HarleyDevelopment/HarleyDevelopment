@@ -1,8 +1,4 @@
 # Welcome to my profile! I am aiming to get a badge on this account! Assist me in this by following my profile and downloading my products!
-
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-
 - 🛠️ JS, HTML and CSS Developer.
 - 🌱Learning PHP
 - 📱 Want to contact me? You can contact me via my [Discord](https://discord.gg/tKy4tqyc3y)
