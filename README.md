@@ -28,7 +28,7 @@ if(whoIsCool !== coolPerson) {
   console.log(coolColour(`[SYSTEM]:) + ' INCORRECT NAME INSERTED')
   console.log(coolColour(`[SYSTEM]:) + ' INCORRECT NAME INSERTED')
   console.log(coolColour(`[SYSTEM]:) + ' INCORRECT NAME INSERTED')
-    console.log(coolColour(`[SYSTEM]:) + ' INCORRECT NAME INSERTED - PLEASE JOIN https://discord.gg/tKy4tqyc3y FOR SUPPORT')
+  console.log(coolColour(`[SYSTEM]:) + ' INCORRECT NAME INSERTED - PLEASE JOIN https://discord.gg/tKy4tqyc3y FOR SUPPORT')
   process.exit();
   
 }
