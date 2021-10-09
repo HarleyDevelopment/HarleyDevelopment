@@ -35,5 +35,6 @@ if(whoIsCool !== coolPerson) {
 client.login(botToken)
 
 // Yes. You can use this within your bot code.
+```
 ---
 Want to get into coding, wanting to become a developer? But struggling ... I offer support on programming and other developement methods within my [Discord](https://discord.gg/tKy4tqyc3y)
