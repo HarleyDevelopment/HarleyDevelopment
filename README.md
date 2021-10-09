@@ -43,4 +43,4 @@ If you're viewing this and got an account on this platform, why not follow me? A
 
 ## Other
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/HarleyDevelopment" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-show-count="true" aria-label="Follow @HarleyDevelopment on GitHub">Follow @HarleyDevelopment</a>
+<github-button href="https://github.com/HarleyDevelopment" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-show-count="true" aria-label="Follow @HarleyDevelopment on GitHub">Follow @HarleyDevelopment</github-button>
