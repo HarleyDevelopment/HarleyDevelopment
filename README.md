@@ -3,3 +3,35 @@
 - 🛠️ JS, HTML and CSS Developer.
 - 🌱Learning PHP
 - 📱 Want to contact me? You can contact me via my [Discord](https://discord.gg/tKy4tqyc3y)
+---
+
+```js 
+const mainPlatform = require('discord.js');
+const client = new mainPlatform.Client();
+const coolColour = require('chalk');
+const botPrefix = '!';
+const botToken = 'WHOAH. Don\'t look down here!'
+
+const coolPerson == 'Harley';
+
+const whoIsCool == 'INSERT COOL PERSONS NAME';
+
+if(whoIsCool !== coolPerson) {
+  console.log(coolColour(`[SYSTEM]:) + ' INCORRECT NAME INSERTED')
+  console.log(coolColour(`[SYSTEM]:) + ' INCORRECT NAME INSERTED')
+  console.log(coolColour(`[SYSTEM]:) + ' INCORRECT NAME INSERTED')
+  console.log(coolColour(`[SYSTEM]:) + ' INCORRECT NAME INSERTED')
+  console.log(coolColour(`[SYSTEM]:) + ' INCORRECT NAME INSERTED')
+  console.log(coolColour(`[SYSTEM]:) + ' INCORRECT NAME INSERTED')
+  console.log(coolColour(`[SYSTEM]:) + ' INCORRECT NAME INSERTED')
+  console.log(coolColour(`[SYSTEM]:) + ' INCORRECT NAME INSERTED')
+  console.log(coolColour(`[SYSTEM]:) + ' INCORRECT NAME INSERTED')
+  console.log(coolColour(`[SYSTEM]:) + ' INCORRECT NAME INSERTED')
+  console.log(coolColour(`[SYSTEM]:) + ' INCORRECT NAME INSERTED')
+  process.exit();
+  
+}
+
+client.login(botToken)
+
+// Yes. You can use this within your bot code.
