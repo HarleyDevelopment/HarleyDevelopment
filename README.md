@@ -43,4 +43,4 @@ Want to get into coding, wanting to become a developer? But struggling ... I off
 If you're viewing this and got an account on this platform, why not follow me? After following me you could head over to https://h4r1ey-dev.xyz and log-in using our GitHub log-in method!
 
 ## My Discord
-<iframe src="https://discord.com/widget?id=895638509187117077&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+https://discord.com/api/guilds/895638509187117077/widget.json
