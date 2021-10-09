@@ -40,3 +40,5 @@ client.login(botToken)
 Want to get into coding, wanting to become a developer? But struggling ... I offer support on programming and other developement methods within my [Discord](https://discord.gg/tKy4tqyc3y)
 
 If you're viewing this and got an account on this platform, why not follow me? After following me you could head over to https://h4r1ey-dev.xyz and log-in using our GitHub log-in method!
+
+<iframe src="https://ghbtns.com/github-btn.html?user=mdo&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="230" height="30" title="GitHub"></iframe>
