@@ -4,6 +4,14 @@
 - 📱 Want to contact me? You can contact me via my [Discord](https://discord.gg/tKy4tqyc3y)
 ---
 
+## Information
+[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/tKy4tqyc3y)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://h4r1ey-dev.xyz)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/HarleyDevelopment)
+
+
+---
+
 ```js 
 const mainPlatform = require('discord.js');
 const client = new mainPlatform.Client();
