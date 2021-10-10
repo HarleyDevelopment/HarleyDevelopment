@@ -55,3 +55,7 @@ If you're viewing this and got an account on this platform, why not follow me? A
 ![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)&nbsp;
+
+---
+<h3 align=center>Show some ❤️ by starring some of the repositories!</h3>
+---
