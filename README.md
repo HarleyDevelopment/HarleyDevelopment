@@ -9,6 +9,8 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://h4r1ey-dev.xyz)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/HarleyDevelopment)
 
+[![DOD Badge](https://img.shields.io/badge/TEAM-Harley%20Development-17a6ec?style=for-the-badge)](https://h4r1ey-dev.xyz/discord)
+
 
 ---
 
