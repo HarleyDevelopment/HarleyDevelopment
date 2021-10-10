@@ -41,3 +41,6 @@ Want to get into coding, wanting to become a developer? But struggling ... I off
 
 If you're viewing this and got an account on this platform, why not follow me? After following me you could head over to https://h4r1ey-dev.xyz and log-in using our GitHub log-in method!
 
+## My Stack
+
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
