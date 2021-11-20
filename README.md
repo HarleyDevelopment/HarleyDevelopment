@@ -4,13 +4,6 @@
 - 📱 Want to contact me? You can contact me via my [Discord](https://discord.gg/tKy4tqyc3y)
 ---
 
-## Information
-[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/tKy4tqyc3y)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://h4r1ey-dev.xyz)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-ffffff?style=flat-square&logo=Github&logoColor=black)](https://github.com/HarleyDevelopment)
-
-[![DOD Badge](https://img.shields.io/badge/TEAM-Harley%20Development-17a6ec?style=for-the-badge)](https://h4r1ey-dev.xyz/discord)
-
 ---
 Want to get into coding, wanting to become a developer? But struggling ... I offer support on programming and other developement methods within my [Discord](https://discord.gg/tKy4tqyc3y)
 
