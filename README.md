@@ -11,41 +11,6 @@
 
 [![DOD Badge](https://img.shields.io/badge/TEAM-Harley%20Development-17a6ec?style=for-the-badge)](https://h4r1ey-dev.xyz/discord)
 
-
----
-
-```js 
-const mainPlatform = require('discord.js');
-const client = new mainPlatform.Client();
-const coolColour = require('chalk');
-const botPrefix = '!';
-const botToken = 'WHOAH. Don\'t look down here!'
-
-const coolPerson == 'Harley';
-
-const whoIsCool == 'INSERT COOL PERSONS NAME';
-
-if(whoIsCool !== coolPerson) {
-  console.log(coolColour(`[SYSTEM]:) + ' INCORRECT NAME INSERTED')
-  console.log(coolColour(`[SYSTEM]:) + ' INCORRECT NAME INSERTED')
-  console.log(coolColour(`[SYSTEM]:) + ' INCORRECT NAME INSERTED')
-  console.log(coolColour(`[SYSTEM]:) + ' INCORRECT NAME INSERTED')
-  console.log(coolColour(`[SYSTEM]:) + ' INCORRECT NAME INSERTED')
-  console.log(coolColour(`[SYSTEM]:) + ' INCORRECT NAME INSERTED')
-  console.log(coolColour(`[SYSTEM]:) + ' INCORRECT NAME INSERTED')
-  console.log(coolColour(`[SYSTEM]:) + ' INCORRECT NAME INSERTED')
-  console.log(coolColour(`[SYSTEM]:) + ' INCORRECT NAME INSERTED')
-  console.log(coolColour(`[SYSTEM]:) + ' INCORRECT NAME INSERTED')
-  console.log(coolColour(`[SYSTEM]:) + ' INCORRECT NAME INSERTED')
-  console.log(coolColour(`[SYSTEM]:) + ' INCORRECT NAME INSERTED - PLEASE JOIN https://discord.gg/tKy4tqyc3y FOR SUPPORT')
-  process.exit();
-  
-}
-
-client.login(botToken)
-
-// Yes. You can use this within your bot code.
-```
 ---
 Want to get into coding, wanting to become a developer? But struggling ... I offer support on programming and other developement methods within my [Discord](https://discord.gg/tKy4tqyc3y)
 
